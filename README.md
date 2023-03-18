@@ -29,5 +29,23 @@ Credit Card Fraud Detection.
 ![CreditCardfraud](CreditcardResults.png).  
 
 
+# Algorithms Used
+Credit card fraud detection algorithms are used by financial institutions to identify and prevent fraudulent transactions on credit cards. Some commonly used algorithms for credit card fraud detection include:
 
+Rule-Based Systems: This approach uses a set of rules to flag transactions that are outside the normal behavior of the cardholder. For example, if a card is used in a foreign country or for an unusually large purchase amount, the transaction may be flagged for review.
+
+Neural Networks: Neural networks are a type of machine learning algorithm that can be used to identify patterns in large datasets. These networks can be trained to recognize patterns that are associated with fraudulent transactions.
+
+Decision Trees: Decision trees are another machine learning algorithm that can be used for fraud detection. These trees can be used to create a set of rules that can be used to identify fraudulent transactions based on certain criteria.
+
+Logistic Regression: Logistic regression is a statistical technique that is used to predict the likelihood of an event occurring. This algorithm can be used to predict the likelihood of a transaction being fraudulent based on certain variables, such as the amount of the transaction or the location of the transaction.
+
+Random Forests: Random forests are an ensemble learning algorithm that combines multiple decision trees to improve the accuracy of the predictions. This algorithm can be used to identify fraudulent transactions by examining multiple variables simultaneously.
+
+Overall, a combination of these algorithms can be used to create a robust fraud detection system that is able to accurately identify and prevent fraudulent transactions on credit cards.
+
+# Source 
+Youtube : https://www.youtube.com/  
+Python documentation : https://docs.python.org/3/  
+Kaggle : https://www.kaggle.com/ 
 
