@@ -15,3 +15,19 @@ The process of credit card fraud detection typically involves three steps:
 3.Fraud Management: Managing and mitigating the risks associated with credit card fraud. This can involve implementing fraud prevention policies and procedures, training staff on fraud detection techniques, and working with law enforcement agencies to investigate and prosecute fraudulent activity.
 
 Overall, credit card fraud detection is a critical component of the payment processing ecosystem, helping to protect both card issuers and cardholders from financial losses. By using advanced data analytics and machine learning techniques, businesses can identify and prevent fraudulent transactions before they occur, helping to minimize the impact of credit card fraud on their bottom line.
+
+# EDA (Exploratory Data Analysis) 
+Credit Card Fraud Detection.  
+![CreditCardfraud](CrediCardFraud.png).  
+
+![Eda1](EDA!.png).  
+
+
+![Eda1](EDA.png).  
+
+# Results
+![CreditCardfraud](CreditcardResults.png).  
+
+
+
+
